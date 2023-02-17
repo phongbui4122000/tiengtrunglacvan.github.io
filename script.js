@@ -1,5 +1,5 @@
 const button = document.querySelector('button');
 
 button.addEventListener('click', event => {
-  alert('Coming soon!');
+  alert('Yêu các bạn học viên!');
 });
